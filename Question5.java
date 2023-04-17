@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.lang.Math;
 
-class Main {
+public class Question5 {
   public static void main(String args[]) { 
     double highest = Math.pow(-999999,999999);
     
