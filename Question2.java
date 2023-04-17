@@ -11,7 +11,6 @@ public class Question2
      */
 
     Scanner in = new Scanner(System.in);
-    
 
     System.out.println("Enter height: ");
     double height = in.nextDouble();
